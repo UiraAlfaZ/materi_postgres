@@ -1,1 +1,2 @@
-# materi_postgres
+Nama Wira Abdi Fazriansyah
+Tugas postgress SQL
